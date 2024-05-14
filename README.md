@@ -19,6 +19,10 @@
 * 2023
     * [DirectX 12 Renderer](https://github.com/CleftObsidian/DirectX12_Renderer)
 
+* 2024
+    * [Multithreading I/O Simulation](https://github.com/CleftObsidian/MuTIO)
+    * [(in progress) Position Based Dynamics for Rigid Bodies with DX12](https://github.com/CleftObsidian/WIP.PBD)
+
 ## Video Contents
 * 2018
     * [Beat The Box (27:50 ~ 28:56)](https://youtu.be/bcGMXqGOoTI?t=1670)

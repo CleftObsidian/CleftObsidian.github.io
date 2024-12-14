@@ -10,6 +10,7 @@
     * [Darkest-Cave](https://github.com/CleftObsidian/Darkest-Cave)
     * [Muse Rush](https://github.com/CleftObsidian/Muse-Rush)
     * [Radio-activity](https://github.com/CleftObsidian/Radio-activity)
+    * [Unreal Engine 4 Math System Case Study](https://docs.google.com/document/d/13qPYrKPAayIRfQm11WTSW5jVF8yW_j_GZ0Aoiqt_zjA/edit?usp=sharing)
 
 * 2022
     * [DirectX 11 Renderer](https://github.com/CleftObsidian/DirectX11_Renderer)

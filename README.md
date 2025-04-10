@@ -46,3 +46,7 @@
 * 2023
     * [Material Point Method for Dynamic Fracture Animation](https://youtu.be/MWX-BAxeIT4?si=MDnuSTvSGrzd1x2d)
     * [Moon with DirectX 12 Renderer](https://youtu.be/RrsHbfjaySM)
+
+## Interest
+* G-STAR 2024 - Arknights: Endfield Play
+[![Video Label](http://img.youtube.com/vi/-YQtwO6f6WM/0.jpg)](https://youtu.be/-YQtwO6f6WM?t=4761s)
